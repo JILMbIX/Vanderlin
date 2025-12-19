@@ -334,7 +334,7 @@
 	wdefense = MEDIOCRE_PARRY
 	anvilrepair = /datum/skill/craft/weaponsmithing
 	melting_material = /datum/material/steel
-	melt_amount = 50
+	melt_amount = 75
 	grid_width = 64
 	grid_height = 32
 
