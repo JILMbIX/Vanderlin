@@ -643,12 +643,10 @@
 	created_item = /obj/item/weapon/knife/dagger/kukri/steel
 	
 /datum/anvil_recipe/weapons/steel/knuckles	
-	name = "2x Knuckles"
-	recipe_name = "a couple Knuckles"
+	name = "Knuckles"
+	recipe_name = "a Steel Knuckles"
 	appro_skill = /datum/skill/craft/weaponsmithing
 	created_item = /obj/item/weapon/knuckles
-	createditem_extra = 1
-	craftdiff = 2
 	
 /datum/anvil_recipe/weapons/steel/dagger_steel
 	name = "2x Steel Daggers"
